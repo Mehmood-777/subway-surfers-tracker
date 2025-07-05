@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  background: #f0f0f0;
+  color: #333;
+  margin: 0;
+  padding: 1em;
+  width: 300px;
+}
+.container {
+  text-align: center;
+}
+textarea {
+  width: 100%;
+  padding: 0.5em;
+}
+button {
+  margin-top: 0.5em;
+  margin-right: 0.5em;
+  padding: 0.5em 1em;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:disabled {
+  background: gray;
+  cursor: not-allowed;
+}
+#history {
+  text-align: left;
+  padding-left: 0;
+  list-style: none;
+}
+#history li {
+  font-size: 0.85em;
+  margin: 0.25em 0;
+}
