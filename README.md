@@ -2,17 +2,19 @@
 
 Browser extension to track, complete, and stay reminded about your Subway Surfers daily challenges.
 
-### ✅ Features
-- Set and save daily challenges
-- Mark as complete
-- See your 7-day challenge history
-- Get automatic daily reminders
+🌐 **Official Website**: [subwaysurfersapks.com](https://subwaysurfersapks.com)
 
-### 💻 Works on:
-- Chrome, Firefox, Edge, Opera, Brave, Kiwi, Yandex
+✅ **Features**
+- Set and save daily challenges  
+- Mark as complete  
+- See your 7-day challenge history  
+- Get automatic daily reminders  
 
-### 📂 Codebase
-Plain HTML + JavaScript + CSS (No build tools)
+💻 **Works on**
+- Chrome, Firefox, Edge, Opera, Brave, Kiwi, Yandex  
 
-### 📜 License
-MIT
+📂 **Codebase**
+- Plain HTML + JavaScript + CSS (No build tools)
+
+📜 **License**
+- MIT
